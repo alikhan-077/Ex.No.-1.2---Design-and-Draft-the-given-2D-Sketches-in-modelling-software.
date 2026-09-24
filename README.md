@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ <img width="1479" height="1064" alt="ChatGPT Image Sep 24, 2026, 07_30_32 PM" src="https://github.com/user-attachments/assets/af912037-4a87-4687-97da-256bbeb4b6ef" />
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
